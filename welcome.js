@@ -4,4 +4,5 @@ function showWelcomeMsg() {
 
 function generateCustomMsg(name) {
     alert("Welcome " + name);
+    console.log(name)
 }
