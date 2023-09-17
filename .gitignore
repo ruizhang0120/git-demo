@@ -5,6 +5,6 @@
 *.docx
 *.xlsx
 *.pptx
-
 */lib/*
 */bin/*
+.DS_Store
