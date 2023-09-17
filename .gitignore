@@ -1,0 +1,10 @@
+*.mp3
+*.mp4
+*.dll
+*.doc
+*.docx
+*.xlsx
+*.pptx
+
+*/lib/*
+*/bin/*
